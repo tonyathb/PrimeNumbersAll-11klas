@@ -1,0 +1,15 @@
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\bin\Debug\net6.0\ListPrimeNumbers.exe
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\bin\Debug\net6.0\ListPrimeNumbers.deps.json
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\bin\Debug\net6.0\ListPrimeNumbers.runtimeconfig.json
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\bin\Debug\net6.0\ListPrimeNumbers.dll
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\bin\Debug\net6.0\ListPrimeNumbers.pdb
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\obj\Debug\net6.0\ListPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\obj\Debug\net6.0\ListPrimeNumbers.AssemblyInfoInputs.cache
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\obj\Debug\net6.0\ListPrimeNumbers.AssemblyInfo.cs
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\obj\Debug\net6.0\ListPrimeNumbers.csproj.CoreCompileInputs.cache
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\obj\Debug\net6.0\ListPrimeNumbers.sourcelink.json
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\obj\Debug\net6.0\ListPrimeNumbers.dll
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\obj\Debug\net6.0\refint\ListPrimeNumbers.dll
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\obj\Debug\net6.0\ListPrimeNumbers.pdb
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\obj\Debug\net6.0\ListPrimeNumbers.genruntimeconfig.cache
+D:\TonyaBelezireva\ProjectS -old comp\repos\11A-2021-Proekti1\ListPrimeNumbers\obj\Debug\net6.0\ref\ListPrimeNumbers.dll
